@@ -1,0 +1,8 @@
+{
+    "symbol": "TURBO",
+    "name": "TURBO Token",
+    "type": "ERC20",
+    "address": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+    "decimals": 18,
+    "logoURI": "https://github.com/TurboToken/TurboInfo/blob/main/TurboLogo.png"
+}
