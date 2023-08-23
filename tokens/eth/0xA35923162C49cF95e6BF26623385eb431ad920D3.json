@@ -1,0 +1,34 @@
+{
+  "symbol": "TURBO",
+  "address": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+  "decimals": 18,
+  "name": "Turbo",
+  "type": "ERC20",
+  "ens_address": "",
+  "website": "https://turbotoken.ai",
+  "logo": {
+    "src": "https://raw.githubusercontent.com/TurboToken/TurboInfo/main/TurboToad-128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "turbotoadtoken@gmail.com",
+    "url": "https://turbotoken.ai"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/TurboToadToken",
+    "youtube": ""
+  }
+}
